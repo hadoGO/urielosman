@@ -6,9 +6,9 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://github.com/hadoGO/urielosman"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://github.com/hadoGO/urielosman"><b>uriel</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
+## Caracteristicas
 * Minimal, you can focus on your content
 * Responsive
 * Disqus integration

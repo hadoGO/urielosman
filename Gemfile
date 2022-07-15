@@ -5,3 +5,4 @@ gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem 'jekyll-mentions'
 gem 'jekyll-feed'
+gem install faraday_middleware-request-retry

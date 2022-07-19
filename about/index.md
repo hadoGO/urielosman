@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://github.com/hadoGO/urielosman"><b>Osman uriel Col Chun</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://github.com/hadoGO/urielosman"><b>Osman uriel Col </b></a> is a minimal, one column jekyll theme.</center>
 
 ## Caracteristicas
 * Minimal, you can focus on your content
